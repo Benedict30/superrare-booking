@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Rare Booking"
+  short_description: "Prepare reusable Super Rare slot-booking scripts"
+  default_prompt: "Use $superrare-booking to prepare a booking script for my event and preferred date."
